@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA SecOps - New Tab">c4c62f18071120100608fea89c1ed05c</canvas_page>
+        <name>SecOps - New Tab</name>
+        <page display_value="PA SecOps - New Tab">b3b6a318071120100608fea89c1ed066</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 18:05:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c0c62f18071120100608fea89c1ed05e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SecOps - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovate" source="x_559864_innovate">806dcfb8070120100608fea89c1ed06b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">806dcfb8070120100608fea89c1ed06b</sys_scope>
+        <sys_update_name>pa_tabs_c0c62f18071120100608fea89c1ed05e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 18:05:53</sys_updated_on>
+    </pa_tabs>
+</record_update>
